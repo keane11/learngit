@@ -13,4 +13,4 @@ compare the change
 
 6666666666
 
-Creating a new branch is quick AND simple
+Creating a new branch is quick and simple
